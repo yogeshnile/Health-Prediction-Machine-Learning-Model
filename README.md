@@ -23,16 +23,9 @@ All Model Error are save into ***Model Error.txt*** File
 
 A final prediction data include predict data through model are store in ***Final Health Data.xlsx*** file
 
+## Technology used in Project :hotsprings:
+<img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/pandas.png" width="300">   <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/Jupyter.png" width="200">    <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/numpy.png" width="200">   <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/matplotlib.jpg" width="400">    <img target="_blank" src="https://github.com/yogeshnile/technology/blob/master/sklearn.png" width="200">
 
-### Libary of Python on use this Project
-Use the package manager pip to install library.
-```sh
-pip install pandas 
-pip install numpy
-pip install sklearn
-pip install matplotlib
-pip install openpyxl
-```
 ## Bug / Feature Request :man_technologist:
 If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/yogeshnile/Health-Prediction-Machine-Learning-Model/issues/new) by including your search query and the expected result.
 
